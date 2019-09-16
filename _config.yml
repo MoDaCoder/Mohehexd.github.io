@@ -1,11 +1,11 @@
 # Site settings
 author: Guillermo Martinez
-title: 
+title: Completing the CLI Project
 header-img: img/home-bg.png
 email: dumblemoe@gmail.com
 copyright_name: Guillermo Martinez
 description: > # this means to ignore newlines until "baseurl:"
-  
+  I made a league of legends ruby gem!
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Mohehexd
