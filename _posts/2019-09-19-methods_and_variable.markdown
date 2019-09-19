@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Methods and Variable"
-date:       2019-09-19 21:55:03 +0000
+title:      "Methods and Variables"
+date:       2019-09-19 17:55:04 -0400
 permalink:  methods_and_variable
 ---
 
