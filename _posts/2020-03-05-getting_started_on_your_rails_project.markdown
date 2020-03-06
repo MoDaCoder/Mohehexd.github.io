@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "GETTING STARTED ON YOUR RAILS PROJECT"
-date:       2020-03-06 01:18:20 +0000
+date:       2020-03-05 20:18:22 -0500
 permalink:  getting_started_on_your_rails_project
 ---
 
